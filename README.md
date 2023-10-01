@@ -12,7 +12,7 @@
 <h3>Habilidades Técnicas</h3>
 <p>Como desenvolvedora, estou construindo meu conhecimento e experiência nas seguintes áreas:</p>
 <strong>Linguagens de Programação: </strong>JavaScript, TypeScript.
-<br><strong>Bibliotecas e Frameworks: </strong>React, Redux.
+<br><strong>Bibliotecas, Frameworks e Outras Tecnologias: </strong>React, Redux, Docker, Node.js.
 <br><strong>Banco de Dados: </strong>SQL.
 <br><strong>Linguagens de marcação e estilização: </strong>HTML5, CSS.
 <br><strong>Testes: </strong>Jest, React Testing Library.
