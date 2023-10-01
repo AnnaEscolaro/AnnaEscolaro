@@ -5,14 +5,14 @@
 
 <h3>Sobre Mim</h3>
 <p>👩‍💼 Anteriormente, fui advogada com uma carreira sólida em direito societário e corporativo, tendo atuado em escritórios de advocacia, empresas e em uma startup.</p>
-<p>🚀 Atualmente, estou focada no desenvolvimento web full stack e desenvolvi habilidades em JavaScript, TypeScript, React, Redux, SQL, Node.js, HTML5, CSS, Docker, Jest, Git, Github e metodologias ágeis.</p>
+<p>🚀 Atualmente, estou focada no desenvolvimento web full stack e desenvolvi habilidades em JavaScript, TypeScript, React, Redux, SQL, Node.js, HTML5, CSS, Docker, Express, Jest, Git, Github e metodologias ágeis.</p>
 <p>📚 Estou constantemente aprendendo e aprimorando minhas habilidades técnicas, sempre em busca de novos desafios e oportunidades para crescer.</p>
 <p>🌐 Meu perfil no LinkedIn: <a _blank href='https://www.linkedin.com/in/annaescolaro/'>Anna Escolaro</a></p>
 
 <h3>Habilidades Técnicas</h3>
 <p>Como desenvolvedora, estou construindo meu conhecimento e experiência nas seguintes áreas:</p>
 <strong>Linguagens de Programação: </strong>JavaScript, TypeScript.
-<br><strong>Bibliotecas, Frameworks e Outras Tecnologias: </strong>React, Redux, Docker, Node.js.
+<br><strong>Bibliotecas, Frameworks e Outras Tecnologias: </strong>React, Redux, Docker, Express, Node.js.
 <br><strong>Banco de Dados: </strong>SQL.
 <br><strong>Linguagens de marcação e estilização: </strong>HTML5, CSS.
 <br><strong>Testes: </strong>Jest, React Testing Library.
