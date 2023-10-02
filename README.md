@@ -1,3 +1,4 @@
+<p><strong>PT-BR</strong></p>
 <h1><strong>Anna Escolaro</strong></h1>
 <h3><strong>Desenvolvedora Web Full Stack &#11088;</strong></h3>
 
@@ -35,7 +36,7 @@
 <h4><strong>Muito obrigada por visitar meu perfil no GitHub e acompanhar minha jornada de transição de carreira. Estou sempre aberta a colaborações, oportunidades de aprendizado e projetos empolgantes. Vamos juntos! 💻🚀</strong></h4>
 
 <hr>
-<p><strong>English</strong></p>
+<p><strong>EN</strong></p>
 <h1><strong>Anna Escolaro</strong></h1>
 <h3><strong>Full Stack Web Developer &#11088;</strong></h3>
 
